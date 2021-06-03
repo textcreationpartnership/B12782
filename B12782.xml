@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A prohibition for allome.</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12782</idno><idno type="EEBO-CITATION">99892808</idno>
+  <idno type="VID">187202</idno>
+  <idno type="EEBO-PROQUEST">2240918070</idno>
+  
+            <idno type="STC">STC 8438</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[106]</idno>
+            <idno type="PROQUEST">ocm99892808</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892808e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12782)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187202)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[106])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A prohibition for allome.</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno Dom. 1609.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Dated at end: Greenwich the nineteenth day of June, in the seuenth yeere of our raigne ...</note>
+                  <note>Announcing the royal monopoly for the manufacture and sale of alum. Cf. STC.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Alum industry --  Law and legislation --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:187202:1"/>
+            <head>❧ By the King.</head>
+            <head>¶ A Prohibition for Allome.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>AMES by the Grace of God, King of</hi> England, Scotland, France and Ireland, Defender of the Faith, &amp;c. To all to whome these presents shall come, Greeting. Where<g ref="char:EOLhyphen"/>as wee haue alwayes helde it one of the most iust and necessarie cares and considerations incident to the State and Office of Kings and Soueraigne Princes, so to dispose of their people and Gouern<g ref="char:EOLhyphen"/>ment, as the knowledge and vse of good and profitable arts and in<g ref="char:EOLhyphen"/>uentions may become common and frequent amongst their people, the same being one of the greatest meanes to increase and preserue the wealth and strength of State and people, Con<g ref="char:EOLhyphen"/>sidering how contrary effects labour and idlenesse doe produce, the one making Kingdomes great and flourishing, the other alwayes bearing the markes of beggerie and contempt: Forsomuch as some of our good and louing Subiects of our Realme of England, haue of late to their great charge, &amp; no lesse commendation, found out and made proofe of sundry <hi>Mines</hi> in our Countie of Yorke, for the making of <hi>Allome,</hi> a Merchandize of great necessitie and vse sundry wayes for all our Dominions, and haue so well and commendably proceeded therein, that they are at this time able to make sufficient store of <hi>Allome,</hi> not onely to serue for the vse and expense of all our said Kingdomes, but also within short space to afford and spare great quantities thereof, to bee euery yeere transported for the vse and seruice of other our neigh<g ref="char:EOLhyphen"/>bour Kingdomes and Nations: And whereas the said persons, who by their skill and in<g ref="char:EOLhyphen"/>dustrie haue effected so good and great a worke, (so often failing vpon other attempts) haue willingly and freely offered and yeelded vp the sayd <hi>Allome Mines</hi> into our handes, vpon such Conditions as haue giuen them full contentment and satisfaction, all men being able to iudge that a matter of that consequence, and wherein so many of our people should bee interessed, was more fit for vs to take into our owne hands, then to leaue the same in the power of priuate men: Wee haue now thought fit for the said considerations, and many other, to giue order to our Treasourer of England, and our Chancellour of our Exchequer, to take the whole worke into our possession, and for that purpose haue made choise of two of the same persons, that managed the same workes before (being both of trust, skill and experience) to deale for vs, as our generall and speciall Factors and Agents, for the whole ordering of the said workes in time to come. And albeit that by meanes of the <hi>Allome</hi> made and to bee made within our said Realme, we shal receiue great hinderance by being depriued of such Customes and other Duties, as formerly haue bene vsually payd vnto Vs and our Predecessours Kings and Princes of this our Realme, for and vpon that Commoditie imported: Yet to the intent our Subiects shall not bee any way wronged, but in all poynts carefully respected and duely prouided for in that Commoditie, Wee haue (out of our royall and tender care of our Subiects good) giuen expresse order and commandement, that our said Agents shall prouide and cause to be prouided, and at all times, and from time to time hereafter haue in their custodie, in some
+<pb facs="tcp:187202:2"/>fit and conuenient Store-houses, both within the Citie of London, and within euery other Citie and port Towne of the same our Realme of England, as shalbe thought fit and appoin<g ref="char:EOLhyphen"/>ted, sufficient quantities of <hi>Allome,</hi> and that from the sayd Store-houses, all and euery our peo<g ref="char:EOLhyphen"/>ple and Subiects shall and may from time to time, buy and haue thereof by lesser or greater quantities at their pleasures, so much good and seruiceable <hi>Allome,</hi> as they or any of them shall at any time require, and at such rate and price to be indifferently appoynted to be payd for and vpon euery hundred weight of <hi>Allome</hi> so to be sold and deliuered as aforesaid, as shall not giue any iust cause of discontent to any of our louing Subiects.</p>
+            <p>These are therefore to require and command, all and singuler person and persons whatso<g ref="char:EOLhyphen"/>euer, aswell our naturall borne Subiects, as Denizens or Strangers, That none of them, nor any other person or persons whatsoeuer, Doe at any time or times hereafter attempt or pre<g ref="char:EOLhyphen"/>sume to bring or cause to bee brought into these our Realmes of England, Scotland or Ire<g ref="char:EOLhyphen"/>land, or any other our Dominions, or any the Ports, Hauens, Creeks, or places of any of them, any <hi>Allome</hi> in greater or lesser quantities, made or to be made in any forreigne part or place whatsoeuer, vpon paine of forfeiture of all and euery quantitie and quantities of <hi>Allome</hi> so brought or caused to be brought into our said Dominions, cōtrary to this our present comman<g ref="char:EOLhyphen"/>dement: The one moytie therof to be to Vs, our Heires &amp; Successors, and the other moytie to such person or persons as shall make seizure of the same: and also vpon paine of our high indig<g ref="char:EOLhyphen"/>nation and displeasure, and of such further paines, penalties and punishments, as for the con<g ref="char:EOLhyphen"/>tempt of our commandement Royall in this behalfe may any way be inflicted vpon them, or any of them so offending. And we do also further require and command all &amp; singuler the Of<g ref="char:EOLhyphen"/>ficers of our Customes within all and euery the Ports of the same our Dominions, and the creeks and members of the same Ports, that they and euery of them doe from and after the date hereof at all times, forbeare to take any entrie or entries, and to take and make any com<g ref="char:EOLhyphen"/>position for any Custome, Subsidie, or other Duety, for or vpon any <hi>Allome</hi> brought or to bee brought into any our Dominions from any forraine parts, and also that they and euery of them (whom it doth or shal coucerne) do stay and seize as forfeited &amp; confiscatted to the vse and vses aforesaid, all and singuler such forraine <hi>Allome,</hi> as from and after the date hereof shalbe by any person or persons whatsoeuer, brought into any Port or Creeke of the same our Domini<g ref="char:EOLhyphen"/>ons, vpon paine of forfeiture of their Offices, and of vndergoing our high indignation and dis<g ref="char:EOLhyphen"/>pleasure, with such further paines and punishments, as for the same their contempts or de<g ref="char:EOLhyphen"/>faults may any way be inflicted vpon them and euery of them in this behalfe offending.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at our Mannour of Greenwich <date>the nineteenth day of June, in the seuenth yeere of our Raigne of Great Britaine, France and Ireland, and of Scotland the two and fortieth.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❧ Imprinted at London by Robert Barker, Printer to the Kings most Excellent <hi>Maiestie.</hi> ANNO DOM. 1609.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
